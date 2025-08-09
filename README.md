@@ -4,7 +4,8 @@ This Python script uses MediaPipe Pose and OpenCV to perform real-time joint ang
 
 ![Capture2](https://github.com/user-attachments/assets/493db244-1637-4854-83e4-37eaef6868df)
 
-Plot of Angle VS Time
+# Plot of Angle VS Time
+
+<img width="724" height="393" alt="plot" src="https://github.com/user-attachments/assets/5a62bab2-8d22-4f06-a3e8-d214a26d6f52" />
 
 
-<img width="724" height="393" alt="plot" src="https://github.com/user-attachments/assets/f3718c30-f221-48be-b78a-c4f4965d063d" />
